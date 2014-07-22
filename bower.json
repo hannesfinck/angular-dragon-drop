@@ -1,5 +1,5 @@
 {
-  "name": "angular-dragon-drop",
+  "name": "hf-angular-dragon-drop",
   "version": "0.3.1",
   "main": "dragon-drop.js",
   "dependencies": {
